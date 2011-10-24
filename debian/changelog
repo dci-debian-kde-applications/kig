@@ -1,25 +1,5 @@
-kig (4:4.7.1-0ubuntu2) oneiric; urgency=low
+kig (4:4.7.2-0r0) UNRELEASED; urgency=low
 
-  * No-change rebuild so translations aren't stripped from .desktop
-    files anymore.
+  * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 16 Sep 2011 01:00:12 +0200
-
-kig (4:4.7.1-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 23:37:41 -0400
-
-kig (4:4.7.0-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 23 Jul 2011 14:58:45 +0200
-
-kig (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
-
-  * Initial release (moved out of kdeedu)
-  * Repack upstream source to include copy of FLD1.2 and COPYING-CMAKE-SCRIPTS
-
- -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:57:38 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 24 Oct 2011 22:02:13 +0200
