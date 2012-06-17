@@ -7,6 +7,7 @@ kig (4:4.8.4-0r0) UNRELEASED; urgency=low
   * Bump kdelibs5-dev build dependency to 4:4.8.
   * Add watch file.
   * Bump Standards-Version to 3.9.3, no further changes.
+  * Remove obsolete not-installed file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 17 Jun 2012 22:57:06 +0200
 
