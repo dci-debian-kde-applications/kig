@@ -1,10 +1,10 @@
-kig (4:4.10.2-1) UNRELEASED; urgency=low
+kig (4:4.10.2-1) experimental; urgency=low
 
   * New upstream release.
   * Update uploaders.
   * Bump build-deps.
 
- -- Sune Vuorela <sune@debian.org>  Mon, 08 Apr 2013 00:04:14 +0000
+ -- Sune Vuorela <sune@debian.org>  Mon, 08 Apr 2013 00:05:44 +0000
 
 kig (4:4.8.4-0r0) unstableish; urgency=low
 
