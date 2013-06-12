@@ -9,7 +9,7 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.10),
  kdelibs5-dev (>= 4:4.10),
  libboost-python-dev,
  pkg-config
-Standards-Version: 3.9.3
+Standards-Version: 3.9.4
 Homepage: http://edu.kde.org/
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kig.git
 Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kig.git
