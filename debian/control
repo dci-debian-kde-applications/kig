@@ -11,6 +11,7 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.11),
  libboost-python-dev,
  pkg-config
 Standards-Version: 3.9.4
+XS-Testsuite: autopkgtest
 Homepage: http://edu.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kig.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kig.git

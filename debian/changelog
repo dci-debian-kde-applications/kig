@@ -1,6 +1,7 @@
 kig (4:4.11.5-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Add autopkgtest.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jan 2014 20:32:51 +0100
 
