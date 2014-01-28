@@ -1,10 +1,10 @@
-kig (4:4.11.5-1) UNRELEASED; urgency=low
+kig (4:4.11.5-1) unstable; urgency=low
 
   * New upstream release.
   * Add autopkgtest.
   * Bump Standards-Version to 3.9.5, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jan 2014 20:32:51 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jan 2014 20:54:36 +0100
 
 kig (4:4.11.3-1) unstable; urgency=low
 
