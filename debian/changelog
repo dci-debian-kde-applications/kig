@@ -1,3 +1,9 @@
+kig (4:4.13.3-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 13:32:51 +0200
+
 kig (4:4.13.1-1) unstable; urgency=medium
 
   * New upstream release.
