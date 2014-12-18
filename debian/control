@@ -1,29 +1,31 @@
 Source: kig
 Section: kde
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.12),
-               kdelibs5-dev (>= 4:4.11),
+               extra-cmake-modules,
+               kdoctools-dev,
                libboost-python-dev,
+               libkf5kdelibs4support-dev,
+               libkf5parts-dev,
                pkg-config,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://edu.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kig.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kig.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/kig.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kig.git
 
 Package: kig
 Architecture: any
 Section: math
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Suggests: khelpcenter4, python
-Description: interactive geometry tool for KDE
+Suggests: khelpcenter, python
+Description: interactive geometry tool
  Kig is an application for interactive geometric construction, allowing
  students to draw and explore mathematical figures and concepts using the
  computer.
