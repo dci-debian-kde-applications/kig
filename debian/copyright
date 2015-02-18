@@ -4,10 +4,47 @@ Upstream-Contact: kde-edu@mail.kde.org
 Source: ftp.kde.org
 
 Files: *
-Copyright: 2002-2004, Dominique Devriese <devriese@kde.org>
-           2004-2005, Pino Toscano <toscano.pino@tiscali.it>
-           2003, Maurizio Paolini <paolini@dmf.unicatt.it>
+Copyright: 2002, Anders Lund <anders@alweb.dk>
+           2012, David E. Narvaez <david.narvaez@computer.org>
+           2012, David E. Narvaez <david@piensalibre.net>
+           2002-2004, Dominique Devriese <devriese@kde.org>
+           1989-1991, Free Software Foundation, Inc
+           1999-2003, Ilya Baran <ibaran@mit.edu>
+           2000, Marc Bartsch
+           2002-2005, Maurizio Paolini <paolini@dmf.unicatt.it>
+           2001-2002, Peter Dimov
+           2009, Petr Gajdos <pgajdos@suse.cz>
+           2009, Petr Gajdos <pgajdos@suse.cz> and
+           2004, Pino Toscano
+           2007, Pino Toscano <pino@kde.org>
+           2004-2006, Pino Toscano <toscano.pino@tiscali.it>
+           2010-2011, Raoul Bourquin
+           2012, Raoul Bourquin (PGF/TikZ exporter part)
+           2010-2011, Raoul Bourquin (asymptote exporter part)
+           1996-2002, the KDE developers
 License: GPL-2+
+
+Files: modes/linkslabel.cpp
+       modes/linkslabel.h
+Copyright: 2002, Dominique Devriese <devriese@kde.org>
+License: LGPL-2.1+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+ 02110-1301  USA
+ .
+ On Debian systems, the full text of the GNU Lesser General Public License
+ version 2.1 can be found in the file `/usr/share/common-licenses/LGPL-2.1'.
 
 Files: cmake/*
 Copyright: 2006, Pino Toscano, <toscano.pino@tiscali.it>
@@ -70,6 +107,5 @@ License: GPL-2+
  Software Foundation, Inc., 51 Franklin St, Fifth Floor,
  Boston, MA  02110-1301 USA
  .
- On Debian systems, the full text of the GNU General Public
- License version 2 can be found in the file
- `/usr/share/common-licenses/GPL-2'.
+ On Debian systems, the full text of the GNU General Public License version 2
+ can be found in the file `/usr/share/common-licenses/GPL-2'.
