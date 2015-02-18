@@ -1,11 +1,11 @@
-kig (4:14.12.2-1~) UNRELEASED; urgency=medium
+kig (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
   * Update build dependencies to build against experimental and to
     follow cmake.
   * Update copyright information.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 19:34:30 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 22:11:28 +0100
 
 kig (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
