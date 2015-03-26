@@ -20,9 +20,11 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5kdelibs4support-dev,
                libkf5parts-dev,
                libkf5texteditor-dev,
+               libkf5xmlgui-dev (>= 5.1~),
                libqt5svg5-dev,
                pkg-config,
-               pkg-kde-tools (>> 0.15.15)
+               pkg-kde-tools (>> 0.15.15),
+               qtbase5-dev
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://edu.kde.org/
