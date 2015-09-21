@@ -1,6 +1,7 @@
 kig (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release (15.08.1)
+  * Update build-deps and deps with the info from cmake
 
  -- Clive Johnston <clivejo@aol.com>  Wed, 16 Sep 2015 23:43:04 +0100
 
