@@ -21,7 +21,6 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5parts-dev,
                libkf5texteditor-dev,
                libqt5svg5-dev,
-               libqt5xmlpatterns5-dev,
                pkg-config,
                pkg-kde-tools (>> 0.15.15)
 Standards-Version: 3.9.6
