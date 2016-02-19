@@ -22,6 +22,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5texteditor-dev,
                libkf5xmlgui-dev (>= 5.1~),
                libqt5svg5-dev (>= 5.4),
+               libqt5xmlpatterns5-dev,
                pkg-config,
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4)

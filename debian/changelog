@@ -2,6 +2,7 @@ kig (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * Debian merge: No remaining changes.
   * New upstream release. 
+  * Add missing optional depends. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 07:57:40 -0800
 
