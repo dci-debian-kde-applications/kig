@@ -1,11 +1,11 @@
-kig (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kig (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes.
   * New upstream release. 
   * Add missing optional depends. 
   * Default libboost-python di not work, trying 1.58 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 07:57:40 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:46:11 +0100
 
 kig (4:15.12.0-1) experimental; urgency=medium
 
