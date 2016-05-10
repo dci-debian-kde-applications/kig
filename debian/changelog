@@ -1,6 +1,6 @@
-kig (4:16.04.0-1~2.gbpfed378) UNRELEASED; urgency=medium
+kig (4:16.04.1-1~1.gbp1d40ab) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @fed378bf95369a5b94c6d362b980a7270f8281bd **
+  ** SNAPSHOT build @1d40ab3186933faabb03f25a464e88f6847c8040 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @22f5214ca5e42d351c6f39f612adaf4f53188732 **
@@ -12,8 +12,9 @@ kig (4:16.04.0-1~2.gbpfed378) UNRELEASED; urgency=medium
   * New upstream release (16.03.80).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:49:18 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:49:27 +0200
 
 kig (4:15.12.0-1) experimental; urgency=medium
 
