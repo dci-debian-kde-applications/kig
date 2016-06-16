@@ -4,20 +4,18 @@ kig (4:16.04.2-0neon) xenial; urgency=medium
 
  -- Neon CI <neon@kde.org>  Thu, 16 Jun 2016 11:08:32 +0000
 
-kig (4:16.04.1-0neon) xenial; urgency=medium
+kig (4:16.04.1-1) unstable; urgency=medium
 
-  * New release
-
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:16:24 +0200
-
-kig (4:16.04.0-1~1.gbp22f521) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @22f5214ca5e42d351c6f39f612adaf4f53188732 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:49:16 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.03.80).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 01:42:14 +0200
 
 kig (4:15.12.0-1) experimental; urgency=medium
 
