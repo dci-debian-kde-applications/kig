@@ -1,3 +1,11 @@
+kig (4:16.08.0-2~1.gbpc3925f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c3925f535dca6429f3f814355b43a5ebde54454c **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 17 Oct 2016 23:49:31 +0200
+
 kig (4:16.08.0-1) unstable; urgency=medium
 
   * New upstream release (16.08.0)
