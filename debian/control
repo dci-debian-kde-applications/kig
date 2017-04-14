@@ -36,6 +36,8 @@ Architecture: any
 Section: math
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter, python
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: interactive geometry tool
  Kig is an application for interactive geometric construction, allowing
  students to draw and explore mathematical figures and concepts using the
