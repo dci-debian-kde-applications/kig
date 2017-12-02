@@ -7,6 +7,8 @@ kig (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
   * Remove trailing whitespaces in changelog.
+  * Remove unused build dependencies: libkf5emoticons-dev,
+    libkf5itemmodels-dev, and libkf5kdelibs4support-dev.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 02 Dec 2017 11:11:47 +0100
 
